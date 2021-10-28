@@ -3,5 +3,8 @@ import requests
 
 print("fffff")
 
-for i in range(10):
-    print (i)
+n_times = int(input("Kartai"))
+
+for i in range(n_times):
+    print(i)
+
